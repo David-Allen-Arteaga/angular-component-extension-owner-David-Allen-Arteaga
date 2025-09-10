@@ -110,7 +110,7 @@
     "vscode": "^1.0.0"
   },
   "dependencies": {
-    "@types/glob": "^5.0.30",
+    "@types/glob": "^8.1.0",
     "glob": "^7.1.1",
     "js-beautify": "^1.6.12",
     "typescript": "^2.9.2",
